@@ -1,7 +1,7 @@
 
-## Title : Data Scraping and Preprocessing using Python and Scrapy\
-## Name : Nandini Pipaliya\
-## ID : 202618008\
+- Title : Data Scraping and Preprocessing using Python and Scrapy\
+- Name : Nandini Pipaliya\
+- ID : 202618008\
 
 ## Overview
 
