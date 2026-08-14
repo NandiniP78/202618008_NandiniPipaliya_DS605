@@ -4,11 +4,11 @@
 
 - # Titanic Survival Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 Exploratory Data Analysis (EDA) of the **Titanic train dataset** to identify factors influencing passenger survival using Python, Pandas, Matplotlib, and Seaborn.
 
-## 📊 Dataset
+## Dataset
 
 * **891 passengers**
 * **12 features**
@@ -21,7 +21,7 @@ Exploratory Data Analysis (EDA) of the **Titanic train dataset** to identify fac
 
 `Pclass`, `Sex`, `Age`, `SibSp`, `Parch`, `Fare`, `Cabin`, `Embarked`
 
-## 🔍 Key Observations
+## Key Observations
 
 * **38.4%** of passengers survived, while **61.6%** did not.
 * **74.2% of females survived** compared with only **18.9% of males**.
@@ -35,7 +35,7 @@ Exploratory Data Analysis (EDA) of the **Titanic train dataset** to identify fac
 * Passengers aged **15 or below had ~59% survival**, higher than the overall survival rate.
 * `Cabin` has **77.1% missing values**, while `Age` has **19.9% missing values**.
 
-## 🛠️ Tools Used
+## Tools Used
 
 * Python
 * Pandas
@@ -44,7 +44,7 @@ Exploratory Data Analysis (EDA) of the **Titanic train dataset** to identify fac
 * Seaborn
 * Jupyter Notebook
 
-## 🎯 Conclusion
+## Conclusion
 
 **Gender and passenger class were the strongest factors associated with survival**, with females and higher-class passengers having significantly better survival rates.
 
