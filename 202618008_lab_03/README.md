@@ -1,8 +1,7 @@
-# DS605: Fundamentals of Machine Learning
 ## Lab Assignment 3: Scikit-learn Data Preprocessing and Model Performance Evaluation
 
-- **Student Name:** [Nandini Sanjaybhai Pipaliya]
-- **Student ID:** [202618008]
+- **Student Name:** Nandini Sanjaybhai Pipaliya
+- **Student ID:** 202618008
 - **Dataset:** [Kaggle Hotel Booking Demand Dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
 ---

@@ -1,6 +1,8 @@
-- Title : Vectorized Programming with NumPy and Data Wrangling with Pandas 
-- Name : Nandini Pipaliya
-- ID : 202618008
+## Lab Assignment 2: Vectorized Programming with NumPy and Data Wrangling with Pandas 
+
+- **Student Name:** Nandini Sanjaybhai Pipaliya
+- **Student ID:** 202618008
+
 
 - # Titanic Survival Analysis
 

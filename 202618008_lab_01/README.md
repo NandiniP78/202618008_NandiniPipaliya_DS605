@@ -1,7 +1,8 @@
 
-- Title : Data Scraping and Preprocessing using Python and Scrapy
-- Name : Nandini Pipaliya
-- ID : 202618008
+## Lab Assignment 1: Data Scraping and Preprocessing using Python and Scrapy
+
+- **Student Name:** Nandini Sanjaybhai Pipaliya
+- **Student ID:** 202618008
 
 ## Overview
 
